@@ -39,31 +39,9 @@ The internship involved working with several data analysis tools and technologie
 - Data visualization
 - Data analysis techniques
 
-Repository Structure
-
-Decodelabs-Data-Analyst-Internship/
-│
-├── SQL/
-│   ├── Tasks/
-│   └── Queries/
-│
-├── Excel/
-│   └── Tasks/
-│
-├── PowerBI/
-│   ├── Dashboards/
-│   └── Reports/
-│
-├── Datasets/
-│
-├── Projects/
-│
-└── README.md
-
 The folder structure may change as additional internship tasks and projects are completed.
 
 Learning Objectives
-
 Through this internship, I aim to develop practical skills in:
 
 1. Understanding and preparing datasets
@@ -84,8 +62,6 @@ It allows me to track my progress, demonstrate the skills I have developed, and 
 Acknowledgement
 
 I am grateful to Decodelabs Tech for providing me with the opportunity to gain practical experience in data analytics and for assigning tasks that have helped me improve my technical and analytical skills.
-
----
 
 Role: Data Analyst Intern
 Organization: Decodelabs Tech
