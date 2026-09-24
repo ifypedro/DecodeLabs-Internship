@@ -1,4 +1,4 @@
-# Data Analyst Internship — Decodelabs Tech
+# Data Analyst Internship (Decodelabs Tech)
 
 Welcome to my Data Analyst Internship Repository.
 
